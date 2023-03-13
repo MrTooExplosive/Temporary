@@ -3,7 +3,7 @@
 
 Welcome to the https://beyondcodebootcamp.com Markdown Challenge!
 Your mission, if you choose to accept is to recreate *this* document, exactly, using only Markdown and gist.github.com.
-***Hint***: Read this *whole*thing first. Then recreate it **one** line at a time.
+***Hint***: Read this *whole* thing first. Then recreate it **one** line at a time.
 Also, everything you need is at https://bit.ly/beyondcode-markdown
 ## Who Supports `Markdown`?
 Ranked from **best** to ~~worst~~:
@@ -54,6 +54,17 @@ em***bold***en
 ~~~`
 ```
 ## Reminder
-- [x] Getlogos
+- [x] Get logos
 - [ ] Check spacing, styles, syntax, etc
-## 
+## Resources
+### Images
+#### Google Images (h4)
+##### PNG Logos (h5)
+###### With `imagesize` (h6)
+Use *Google Images* to find the emages used here:
+- markdown logo png imagesize:**500x308**
+- github logo png imagesize:64x64
+- discord logo png imagesize:64x64
+- stackoverflow png imagesize:**128x128**
+- facebook logo png imagesize:64x64
+- slack logo png imagesize:64x64
